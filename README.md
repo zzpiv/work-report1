@@ -13,4 +13,8 @@ work report
 	1.下载并安装了arduino IDE，EAGLE，github客户端。
 	2通过https://www.tinkercad.com/learn/project-gallery;collectionId=OMOZACHJ9IR8LRE网站学习了arduino的编程格式，了解了arduino常用库的使用和代码编写，在线调试。编写了点亮并让LED灯闪烁程序，舵机驱动程序，超声波测距程序。
 	3.学习了解github的常用功能。
+	
+	
+	
+	![image](https://github.com/zzpiv/work-report1/blob/master/images/35D9E8F72C073E1226F4EB338871DA04.png)
 
