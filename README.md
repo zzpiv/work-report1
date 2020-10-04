@@ -17,7 +17,7 @@ work report
 2020.9.30
 	1.月arduino与mpu6050进行连接，并使用驱动库对mpu6050获得的数据进行欧拉角的转换，在串口上显示姿态解算后的3个欧拉角的变化。
 	
-![image](https://github.com/zzpiv/work-report1/blob/master/images/%60~P(SCYE65UJV9B%7B(H8X0WE.jpg)
+![image](https://github.com/zzpiv/work-report1/blob/master/images/3900UUYY.PNG)
 
 Mpu6050代码：
 
