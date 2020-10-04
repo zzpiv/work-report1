@@ -15,4 +15,4 @@ work report
 	3.学习了解github的常用功能。
 	
 	
-	![image text](https://raw.githubusercontent.com/zzpiv/work-report1/master/images/35D9E8F72C073E1226F4EB338871DA04.png)
+	![image](https://raw.githubusercontent.com/zzpiv/work-report1/master/images/35D9E8F72C073E1226F4EB338871DA04.png)
