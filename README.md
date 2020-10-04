@@ -16,6 +16,8 @@ work report
 	
 2020.9.30
 	1.月arduino与mpu6050进行连接，并使用驱动库对mpu6050获得的数据进行欧拉角的转换，在串口上显示姿态解算后的3个欧拉角的变化。
+	
+![image](https://github.com/zzpiv/work-report1/blob/master/images/%60~P(SCYE65UJV9B%7B(H8X0WE.jpg)
 
 Mpu6050代码：
 
@@ -85,3 +87,4 @@ void loop()
 3.用EAGLE练习画原理图和pcb图的布局布线。
 ![image](https://github.com/zzpiv/work-report1/blob/master/images/35D9E8F72C073E1226F4EB338871DA04.png)
 	![image](https://raw.githubusercontent.com/zzpiv/work-report1/master/images/35D9E8F72C073E1226F4EB338871DA04.png)
+	![image](https://github.com/zzpiv/work-report1/blob/master/images/5C0C920D160C0C358ADFFD7AA1E4E9AD.png)
