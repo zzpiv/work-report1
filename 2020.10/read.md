@@ -30,4 +30,8 @@
     www.samacsys.com
     
     2.经过两天的学习，绘制了EAGLE的原理图和pcb图。
+    
+   ![image](https://github.com/zzpiv/work-report1/blob/master/images/sch.PNG)
+   
+   ![image](https://github.com/zzpiv/work-report1/blob/master/images/pcb.PNG)
 
