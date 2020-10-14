@@ -29,6 +29,8 @@
    www.ultralibrarian.com
     
    www.samacsys.com
+
+https://github.com/jkantarek/Eagle-Libraries
     
    2.经过两天的学习，绘制了EAGLE的原理图和pcb图。
     
