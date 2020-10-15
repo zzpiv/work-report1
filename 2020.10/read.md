@@ -47,7 +47,13 @@ https://github.com/jkantarek/Eagle-Libraries
  
  3.寻找元器件的3d模型。
 
+2020.10.15
 
+1.今天重新用EAGLE绘制了板子的原理图和pcb图。
+
+2.更新电脑环境以安装fusion 360
+
+3.了解了红外遥控芯片的工作原理，根据已经印制好的红外遥控pcb板用EAGLE来重新绘制其原理图
 
 
 
