@@ -37,4 +37,18 @@ https://github.com/jkantarek/Eagle-Libraries
    ![image](https://github.com/zzpiv/work-report1/blob/master/images/sch.PNG)
    
    ![image](https://github.com/zzpiv/work-report1/blob/master/images/pcb.PNG)
+   
+   
+ 2020.10.14
+ 
+ 1.今天按照microbit的BOM表格式整理了板子的BOM表。
+ 
+ 2.按照arduino原理图的格式修改了原先自己画的原理图。
+ 
+ 3.寻找元器件的3d模型。
+
+
+
+
+
 
