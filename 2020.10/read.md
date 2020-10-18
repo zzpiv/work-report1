@@ -55,6 +55,17 @@ https://github.com/jkantarek/Eagle-Libraries
 
 3.了解了红外遥控芯片的工作原理，根据已经印制好的红外遥控pcb板用EAGLE来重新绘制其原理图
 
+2020.10.16
+
+1.经过对window系统的更新配置，成功安装了fusion360.
+
+2.根据遥控器的pcb板绘制完成其电路原理图。
+
+3.查找了低电压检测IC的相关资料。
+
+
+
+
 
 
 
