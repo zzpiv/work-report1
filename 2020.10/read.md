@@ -63,6 +63,14 @@ https://github.com/jkantarek/Eagle-Libraries
 
 3.查找了低电压检测IC的相关资料。
 
+2020.10.19
+
+1.了解了cns2低电压检测ic的工作原理。
+
+2.根据红外遥控pcb双面板徒手绘制其pcb图。
+
+3.了解了常用电容电阻的封装尺寸。
+
 
 
 
