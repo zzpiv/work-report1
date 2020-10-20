@@ -92,6 +92,19 @@ https://github.com/jkantarek/Eagle-Libraries
 2225=5.6mmx6.5mm
 
 
+2020。10.20
+
+1.修改了红外遥控原理图不规范的地方。
+
+2.查找了红外遥控原理图中每一个元件的datasheet。
+
+3.修改了红外IC的封装和低电压检测IC的封装。
+
+4.上传yaokong20201020.zip，包含了原理图，datasheet，library。
+
+记录一个eda网站：https://easyeda.com/
+
+
 
 
 
