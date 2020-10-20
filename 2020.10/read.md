@@ -69,6 +69,8 @@ https://github.com/jkantarek/Eagle-Libraries
 
 2.根据红外遥控pcb双面板徒手绘制其pcb图。
 
+![image](https://github.com/zzpiv/work-report1/blob/master/images/hwpcb.PNG)
+
 3.了解了常用电容电阻的封装尺寸。
 
 
