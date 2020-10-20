@@ -8,5 +8,5 @@
 
 3.修改了红外IC的封装和低电压检测IC的封装。
 
-4.上传yaokong.zip，包含了原理图，datasheet，library。
+4.上传yaokong20201020.zip，包含了原理图，datasheet，library。
 
