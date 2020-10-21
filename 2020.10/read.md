@@ -116,7 +116,15 @@ E型（7845）。有斜角的是表示正极
 
 记录一个eda网站：https://easyeda.com/
 
+2020.10.21
 
+1.根据microphone的pcb板，通过万用表检测各个元器件的属性值和网络连线，绘制其电路原理图。
+
+2.查找microphone模块上所用到的元器件datasheet
+
+3.根据microbitBOM表格式重新整理了microphone模块的BOM表。
+
+4.整理好microphone的电路原理图，BOM表，datasheet资料并上传。
 
 
 
