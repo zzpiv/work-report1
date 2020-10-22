@@ -128,7 +128,32 @@ E型（7845）。有斜角的是表示正极
 
 # 2020.10.22
 &emsp; 1.根据麦克风模块pcb的实际尺寸一模一样的进行pcb layout。    
-&emsp; 2.完全根据microbit的BOM表格式对昨天整理的麦克风BOM表进行修改，修改了P/N，description,manufacturer.
+&emsp; 2.完全根据microbit的BOM表格式对昨天整理的麦克风BOM表进行修改，修改了P/N，description,manufacturer.  
+&emsp; 3.在这个网站学习了解常用电容电阻三极管IC的封装尺寸。https://www.electronics-notes.com/articles/electronic_components/surface-mount-technology-smd-smt/packages.php
+
+ #### COMMON SMD TANATALUM CAPACITOR PACKAGE DETAILS
+  
+| SMD PACKAGE TYPE	|  DIMENSIONS MM	       |   EIA STANDARD    |
+| --------           | -----:                 | :----:            |
+| Size A	            |   3.2 x 1.6 x 1.6	    |     EIA 3216-18   |
+| Size B	            |   3.5 x 2.8 x 1.9	    |    EIA 3528-21    |
+| Size C	            |   6.0 x 3.2 x 2.2	    |   EIA 6032-28     |
+| Size D	            |   7.3 x 4.3 x 2.4	    |      EIA 7343-31  |
+| Size E	            |   7.3 x 4.3 x 4.1	    |   EIA 7343-43     |
+
+#### Transistor & diode packages
+
++ SOT-23 - Small Outline Transistor:size:3 mm x 1.75 mm x 1.3 mm。
+
++ SOT-223 - Small Outline Transistor:size:6.7 mm x 3.7 mm x 1.8 mm
+
+#### Integrated circuit SMD packages
+
++ TSOP - Thin Small Outline Package:   This surface mount IC package is thinner than the SOIC and has a smaller pin spacing of 0.5 mm
++ SSOP - Shrink Small Outline Package:   This package has a pin spacing of 0.635 mm
++ TSSOP - Thin Shrink Small Outline Package:  
++ QSOP - Quarter-size Small Outline Package:   It has a pin spacing of 0.635 mm
++ VSOP - Very Small Outline Package:   This is smaller than the QSOP and has pin spacing of 0.4, 0.5, or 0.65 mm.
 
 
 
