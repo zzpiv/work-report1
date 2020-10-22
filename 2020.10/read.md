@@ -1,4 +1,4 @@
-2020.10.6
+# 2020.10.6
 
    学习microbit的图形化编程
    
@@ -18,7 +18,7 @@
    
 ![image](https://github.com/zzpiv/work-report1/blob/master/images/sg90.PNG)
 
-2020.10.13
+# 2020.10.13
 
   1.在使用EAGLE绘制原理图和pcb的过程中，发现EAGLE的官方库的封装较少，记录一下几个常用的封装库下载网站：
     
@@ -39,7 +39,7 @@ https://github.com/jkantarek/Eagle-Libraries
    ![image](https://github.com/zzpiv/work-report1/blob/master/images/pcb.PNG)
    
    
- 2020.10.14
+# 2020.10.14
  
  1.今天按照microbit的BOM表格式整理了板子的BOM表。
  
@@ -47,7 +47,7 @@ https://github.com/jkantarek/Eagle-Libraries
  
  3.寻找元器件的3d模型。
 
-2020.10.15
+# 2020.10.15
 
 1.今天重新用EAGLE绘制了板子的原理图和pcb图。
 
@@ -55,7 +55,7 @@ https://github.com/jkantarek/Eagle-Libraries
 
 3.了解了红外遥控芯片的工作原理，根据已经印制好的红外遥控pcb板用EAGLE来重新绘制其原理图
 
-2020.10.16
+# 2020.10.16
 
 1.经过对window系统的更新配置，成功安装了fusion360.
 
@@ -63,7 +63,7 @@ https://github.com/jkantarek/Eagle-Libraries
 
 3.查找了低电压检测IC的相关资料。
 
-2020.10.19
+# 2020.10.19
 
 1.了解了cns2低电压检测ic的工作原理。
 
@@ -104,7 +104,7 @@ D型（7343），
 E型（7845）。有斜角的是表示正极
 
 
-2020。10.20
+# 2020。10.20
 
 1.修改了红外遥控原理图不规范的地方。
 
@@ -116,7 +116,7 @@ E型（7845）。有斜角的是表示正极
 
 记录一个eda网站：https://easyeda.com/
 
-#2020.10.21 2020.10.21
+# 2020.10.21 
 
 1.根据microphone的pcb板，通过万用表检测各个元器件的属性值和网络连线，绘制其电路原理图。
 
@@ -127,6 +127,6 @@ E型（7845）。有斜角的是表示正极
 4.整理好microphone的电路原理图，BOM表，datasheet资料并上传。
 
 
-字体<font size=4>大小<font size=6>调节
+
 
 
