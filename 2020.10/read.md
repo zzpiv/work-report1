@@ -126,9 +126,8 @@ E型（7845）。有斜角的是表示正极
 
 &emsp;4.整理好microphone的电路原理图，BOM表，datasheet资料并上传。
 
-# 2020。10.22
-&emsp; 1.根据麦克风模块pcb的实际尺寸一模一样的进行pcb layout。
-
+# 2020.10.22
+&emsp; 1.根据麦克风模块pcb的实际尺寸一模一样的进行pcb layout。    
 &emsp; 2.完全根据microbit的BOM表格式对昨天整理的麦克风BOM表进行修改，修改了P/N，description,manufacturer.
 
 
