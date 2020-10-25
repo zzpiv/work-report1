@@ -33,6 +33,14 @@
 https://github.com/jkantarek/Eagle-Libraries
     
    2.经过两天的学习，绘制了EAGLE的原理图和pcb图。
+   
+  # 2020.10.23
+  
+  1.对有故障的主控板进行检测和故障排查，将故障原因标记出来，并拆板检查原因。
+  
+  2.安装vpn访问外国网站。
+  
+  3.
     
    ![image](https://github.com/zzpiv/work-report1/blob/master/images/sch.PNG)
    
