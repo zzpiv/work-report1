@@ -164,6 +164,15 @@ E型（7845）。有斜角的是表示正极
 + VSOP - Very Small Outline Package:   This is smaller than the QSOP and has pin spacing of 0.4, 0.5, or 0.65 mm.
 
 
+# 2020.10.23
+
+1.安装vpn来访问外国网站
+
+2.检查测试有故障的EQ_DUINO主控板的故障原因，并记录下来，对生锈的弹簧进行更换，拆板进行维修。
+
+
+
+
 
 
 
