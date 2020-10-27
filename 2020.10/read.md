@@ -178,6 +178,17 @@ E型（7845）。有斜角的是表示正极
 
 2.制作麦克风模块的library。
 
+# 2020.10.27
+
+1.完善了麦克风模块的3D模型图。
+
+2.对麦克风模块pcb进行拼版操作，拼3行，一行10个。
+
+![image](https://github.com/zzpiv/work-report1/blob/master/images/pinban30.PNG)
+
+3.生成gerber文件并上传。
+
+
 
 
 
